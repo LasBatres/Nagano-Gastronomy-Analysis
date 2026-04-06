@@ -1,0 +1,61 @@
+ID,Nombre,Rating,# Reviews,Estacion,Tipo de Rst,Cena_min,Cena_max,Cena_avg,Comida_min,Comida_max,Comida_avg
+1,Horai En Hakuba Ten,3.02,5,Hakuba Sta.,"Yakiniku (Japanese BBQ), Tripe, Izakaya (Japanese style tavern)",6000.0,7999.0,6999.5,,,
+2,Shoya Maruhachi Dining,3.36,79,Shinano Moriue Sta.,"Regional Cuisine, Robatayaki, Soba (Buckwheat noodles)",4000.0,4999.0,4499.5,1000.0,1999.0,1499.5
+3,Nikushou Nakazawa,3.59,16,Hakuba Sta.,"Yakiniku (Japanese BBQ), Meat dishes",10000.0,14999.0,12499.5,,,
+4,Wagyu Yakiniku Shinshu Sodachi,3.09,21,Nagano Sta.,"Yakiniku (Japanese BBQ), Tripe, Izakaya (Japanese style tavern)",5000.0,5999.0,5499.5,1000.0,1999.0,1499.5
+5,Yakitori Higumo,3.48,49,Karuizawa Sta.,"Yakitori (Grilled chicken skewers), Izakaya (Japanese style tavern)",5000.0,5999.0,5499.5,,,
+6,Shaoyang Lou,3.32,66,Matsumoto Sta.,"Jingisukan (Grilled lamb), Yakiniku (Japanese BBQ), Chinese hot pot",3000.0,3999.0,3499.5,1000.0,1999.0,1499.5
+7,Jukusei Wagyu Yakiniku Aging Beef Karuizawa,3.3,160,Karuizawa Sta.,"Yakiniku (Japanese BBQ), Tripe",5000.0,5999.0,5499.5,2000.0,2999.0,2499.5
+8,Jidori Donabe Gohan Kogure Nagano Honten,3.15,27,Nagano Sta.,"Izakaya (Japanese style tavern), Regional Cuisine, Yakitori (Grilled chicken skewers)",3000.0,3999.0,3499.5,,,
+9,Shusai Yamazaki Ekimae Ten,3.52,99,Nagano Sta.,"Izakaya (Japanese style tavern), Regional Cuisine, Seafood",6000.0,7999.0,6999.5,,,
+10,Shinshu Nagaya Sakaba,3.47,336,Nagano Sta.,"Regional Cuisine, Soba (Buckwheat noodles), Izakaya (Japanese style tavern)",5000.0,5999.0,5499.5,,,
+11,ZUCCA,3.26,48,Matsumoto Sta.,"Italian, Pasta",3000.0,3999.0,3499.5,1000.0,1999.0,1499.5
+12,WAGYU Hot Pot,0.0,0,Hakubaoike Sta.,"Shabu shabu (Japanese hotpot), Nabe (Japanese hot pot), Meat dishes",10000.0,14999.0,12499.5,,,
+13,Ganso Stamina Yakitori Matsumoto Ekimae Ten,3.22,50,Matsumoto Sta.,"Izakaya (Japanese style tavern), Yakitori (Grilled chicken skewers), Chicken dishes",3000.0,3999.0,3499.5,,,
+14,Umai Mon Nagano Ekimae Ten,3.09,28,Nagano Sta.,"Izakaya (Japanese style tavern), Regional Cuisine, Soba (Buckwheat noodles)",3000.0,3999.0,3499.5,2000.0,2999.0,2499.5
+15,Kura no Mukou,3.49,420,Matsumoto Sta.,"Izakaya (Japanese style tavern), Soba (Buckwheat noodles), Regional Cuisine",3000.0,3999.0,3499.5,1000.0,1999.0,1499.5
+16,Shinshu Itchome Sakaba Nagano Ekimae Ten,3.54,38,Nagano Sta.,"Izakaya (Japanese style tavern), Japanese Cuisine, Japanese sake bar",2000.0,2999.0,2499.5,,,
+17,Yakitori to Nihonshu Jinbe Matsumoto Ekimae Ten,3.55,21,Matsumoto Sta.,"Izakaya (Japanese style tavern), Yakitori (Grilled chicken skewers), Seafood",4000.0,4999.0,4499.5,,,
+18,Sushi Atago,3.06,9,Karuizawa Sta.,Sushi,20000.0,29999.0,24999.5,10000.0,14999.0,12499.5
+19,COURTYARD,3.37,88,Matsumoto Sta.,"Pizza, Cafe, Italian",4000.0,4999.0,4499.5,1000.0,1999.0,1499.5
+20,Niku Tei Futago iki Karuizawa Ten,3.31,51,Karuizawa Sta.,"Yakiniku (Japanese BBQ), Tripe, Izakaya (Japanese style tavern)",10000.0,14999.0,12499.5,,,
+21,Karuizawa Budobou,3.44,223,Karuizawa Sta.,"Italian, Pizza, Pasta",5000.0,5999.0,5499.5,3000.0,3999.0,3499.5
+22,Niku Ryori Suehiro,3.02,5,Matsumoto Sta.,Meat dishes,15000.0,19999.0,17499.5,4000.0,4999.0,4499.5
+23,Korean Izakaya Hanahana Pocha,0.0,1,Hakubaoike Sta.,Izakaya (Japanese style tavern),3000.0,3999.0,3499.5,,,
+24,Benkei Bashi Seki,3.61,17,Komoro Sta.,Japanese Cuisine,20000.0,29999.0,24999.5,,,
+25,Rakuda Ya,0.0,4,Iida Sta.,Tripe,6000.0,7999.0,6999.5,,,
+26,Asama,3.12,20,Shiyakushomae Sta.,"Japanese Cuisine, Izakaya (Japanese style tavern)",6000.0,7999.0,6999.5,6000.0,7999.0,6999.5
+27,nakamura,3.07,12,Ueda Sta.,"Izakaya (Japanese style tavern), Grilled tripe",2000.0,2999.0,2499.5,,,
+28,Tonkatsu Imai Karuizawa,3.09,16,Iwamurada Sta.,"Tonkatsu (Pork cutlet), Izakaya (Japanese style tavern), Curry",2000.0,2999.0,2499.5,1000.0,1999.0,1499.5
+29,BIKURA Hoteru Rutoingurando Ueda Ekimae Ten,3.12,24,Ueda Sta.,"Dining bar, Pasta, Kushi-age (Deep-fried skewers)",3000.0,3999.0,3499.5,,,
+30,Hikariya Nishi,3.9,197,Matsumoto Sta.,"French, Organic",20000.0,29999.0,24999.5,10000.0,14999.0,12499.5
+31,Bar カツハル,3.09,13,Karuizawa Sta.,"Bar, Italian",5000.0,5999.0,5499.5,,,
+32,Nene Ya Ina Ten,3.01,2,Inashi Sta.,"Izakaya (Japanese style tavern), Yakitori (Grilled chicken skewers), Seafood",3000.0,3999.0,3499.5,,,
+33,Japan Kai Shoya Matsumoto Honke Ten,3.03,26,Matsumoto Sta.,"Izakaya (Japanese style tavern), Seafood, Yakitori (Grilled chicken skewers)",4000.0,4999.0,4499.5,,,
+34,BAR Latghtale,3.03,1,Karuizawa Sta.,Bar,3000.0,3999.0,3499.5,,,
+35,Genka Bistro Cheese Plus Nagano,3.04,4,Nagano Sta.,"Italian, Dining bar, Pizza",3000.0,3999.0,3499.5,,,
+36,Nomikui Dokoro Banya,3.26,37,Kami Suwa Sta.,Izakaya (Japanese style tavern),4000.0,4999.0,4499.5,,,
+37,Fuji no Unagiccha Nishikaruisawa Ten,3.02,0,Miyota Sta.,"Unagi (Eel), Izakaya (Japanese style tavern), Seafood",2000.0,2999.0,2499.5,1000.0,1999.0,1499.5
+38,Irohanihoheto Iida Ekimae Ten,3.01,2,Iida Sta.,"Izakaya (Japanese style tavern), Yakitori (Grilled chicken skewers)",2000.0,2999.0,2499.5,,,
+39,Meat & Tavern CHILL HOUSE,3.09,21,Matsumoto Sta.,"Izakaya (Japanese style tavern), Steak, Bento (Lunch box)",3000.0,3999.0,3499.5,,,
+40,Tori Zou Matsumoto Ekimae Ten,3.04,11,Matsumoto Sta.,"Chicken dishes, Mizutaki, Izakaya (Japanese style tavern)",4000.0,4999.0,4499.5,,,
+41,Washoku Mendokoro Sagami Iida Inta-Ten,3.01,10,Kiriishi Sta.,"Family restaurant, Japanese Cuisine, Soba (Buckwheat noodles)",1000.0,1999.0,1499.5,1000.0,1999.0,1499.5
+42,Tako Azabu Karuizawa,3.03,6,Naka Karuizawa Sta.,"Izakaya (Japanese style tavern), Takoyaki (Octopus balls), Bar",3000.0,3999.0,3499.5,,,
+43,Tremani,3.36,93,Matsumoto Sta.,"Italian, Pasta, Pizza",5000.0,5999.0,5499.5,1000.0,1999.0,1499.5
+44,Private rooms Yakiniku Sannou,3.05,7,Sakudaira Sta.,Yakiniku (Japanese BBQ),6000.0,7999.0,6999.5,,,
+45,Yasai ga Oishii Dining LONGING HOUSE Kyukaruizawa,3.06,11,Karuizawa Sta.,Baru (Spanish style bar),6000.0,7999.0,6999.5,,,
+46,Jidori to Okinawa Ryukyu Shabushabu Private rooms Izakaya Kuronagi Nagano Ekimae Ten,3.02,5,Nagano Sta.,"Izakaya (Japanese style tavern), Okinawa cuisine, Shabu shabu (Japanese hotpot)",4000.0,4999.0,4499.5,1000.0,1999.0,1499.5
+47,Kappou Morinoya,3.0,5,Chino Sta.,"Japanese Cuisine, Seafood",6000.0,7999.0,6999.5,3000.0,3999.0,3499.5
+48,Matsumoto Han Sakaba Shuraku,3.31,76,Matsumoto Sta.,"Regional Cuisine, Izakaya (Japanese style tavern), Soba (Buckwheat noodles)",3000.0,3999.0,3499.5,,,
+49,Wagyu Teppanyaki Okini,3.0,2,Naka Karuizawa Sta.,"Teppanyaki, Yakiniku (Japanese BBQ)",20000.0,29999.0,24999.5,10000.0,14999.0,12499.5
+50,Jidori to Amiyaki Private rooms Izakaya Torishou Nagano Ekimae Ten,3.06,8,Nagano Sta.,"Izakaya (Japanese style tavern), Chicken dishes, Nabe (Japanese hot pot)",4000.0,4999.0,4499.5,2000.0,2999.0,2499.5
+51,COCKTAIL WORKS Karuizawa,3.21,56,Karuizawa Sta.,"Italian, Bar, Dining bar",5000.0,5999.0,5499.5,2000.0,2999.0,2499.5
+52,Zenseki Private rooms Jibundoki Matsumoto Ekimae Ten,3.07,48,Matsumoto Sta.,"Izakaya (Japanese style tavern), Tempura",4000.0,4999.0,4499.5,,,
+53,Marunaka Shokai,3.05,12,Iida Sta.,"Tripe, Yakiniku (Japanese BBQ)",4000.0,4999.0,4499.5,,,
+54,Sumibi no Kushi ya. New Hakata Style Nagano Ekimae Ten,3.08,13,Nagano Sta.,"Izakaya (Japanese style tavern), Kushiyaki",3000.0,3999.0,3499.5,2000.0,2999.0,2499.5
+55,ristorante COCORISM,3.18,25,Kawaji Sta.,Italian,4000.0,4999.0,4499.5,2000.0,2999.0,2499.5
+56,Ushi Yaki no Tomo,3.54,30,Naka Karuizawa Sta.,"Yakiniku (Japanese BBQ), Tripe",8000.0,9999.0,8999.5,3000.0,3999.0,3499.5
+57,Juju Karubi Suwa Kamisuwa Ten,3.01,13,Kami Suwa Sta.,Yakiniku (Japanese BBQ),3000.0,3999.0,3499.5,3000.0,3999.0,3499.5
+58,Irohanihoheto Ina Ten,3.01,4,Inashi Sta.,"Izakaya (Japanese style tavern), Japanese Cuisine, Nabe (Japanese hot pot)",2000.0,2999.0,2499.5,,,
+59,Teramachi Sakaba YAKIYA,3.09,44,Nagano Sta.,"Izakaya (Japanese style tavern), Regional Cuisine, Yakitori (Grilled chicken skewers)",3000.0,3999.0,3499.5,,,
+60,Sandaime Torimero Nagano Zenkojiguchi Ten,3.03,16,Nagano Sta.,"Yakitori (Grilled chicken skewers), Izakaya (Japanese style tavern), Motsu-nabe",2000.0,2999.0,2499.5,,,
